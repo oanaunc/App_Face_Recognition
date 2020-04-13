@@ -4,5 +4,5 @@ This is an Android Studio App that recognizes people in images stored in your ph
 
 
 <p align="center" >
-  <img src='./assets/3start.jpg' width=60% />
+  <img src='./assets/3start.jpg' width=30% />
 </p>
