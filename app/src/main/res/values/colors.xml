@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#162b29</color>
+    <color name="colorPrimaryDark">#216a61</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="darkgreen">#162b29</color>
+    <color name="lightgreen">#216a61</color>
+    <color name="lightpink">#ffe8e2</color>
+    <color name="darkpink">#f8bd9e</color>
+    <color name="myyellow">#fbda57</color>
+</resources>
