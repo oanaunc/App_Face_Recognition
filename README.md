@@ -3,3 +3,6 @@
 This is an Android Studio App that recognizes people in images stored in your phone.
 
 
+<p align="center" >
+  <img src='./assets/3start.jpg' width=60% />
+</p>
